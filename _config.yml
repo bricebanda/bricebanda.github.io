@@ -1,5 +1,5 @@
 title: Brice Banda
-url: "https://bricebanda.com"
+url: "https://bricebanda.com/"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -18,9 +18,11 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
+ - name: "Arts and Letters"
+   link: "https://bricebanda.com/artletter/"
+ - name: "Writing"
+   link: "https://bricebanda.com/writing/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
-   link: "contact"
- - name: "Arts"
-   link: "arts"
+   link: "https://bricebanda.com/contact/"
