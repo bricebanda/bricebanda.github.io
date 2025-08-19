@@ -1,6 +1,6 @@
 title: Brice Banda
-url: "https://bricebanda.com/"
-baseurl: "/researcher"
+url: "https://bricebanda.com"
+baseurl: "/about"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/about/"
  - name: "Arts and Letters"
    link: "https://bricebanda.com/artletter/"
  - name: "Science"
