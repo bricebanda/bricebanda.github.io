@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "This website is built upon a base created by Ankit Sultana"
+footer_text: "This website is built using a base created by Ankit Sultana"
 
 sass:
     style: compressed
@@ -20,8 +20,10 @@ nav:
    link: "/researcher/"
  - name: "Arts and Letters"
    link: "https://bricebanda.com/artletter/"
- - name: "Writing"
-   link: "https://bricebanda.com/writing/"
+ - name: "Science"
+   link: "https://bricebanda.com/science/"
+ - name: "Extraneous"
+   link: "https://bricebanda.com/extraneous/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
