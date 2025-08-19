@@ -3,24 +3,26 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [btb2129@columbia.edu](mailto:btb2129@columbia.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1 512 550 0705](tel:+1-5125500705)
 
+<!--
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 70 Morningside Dr, Baker Street
 >
 > London
 >
 > United Kingdom
+-->
 
----
 
-## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+## Find me here
+
+1. [Insta](#)
+2. [Spotify](#)
+3. [Linkedin](#)

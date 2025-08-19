@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Brice Banda
+url: "https://bricebanda.com"
+baseurl: "/about"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "This website is built using a base created by Ankit Sultana"
 
 sass:
     style: compressed
@@ -17,8 +17,14 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/about/"
+ - name: "Arts and Letters"
+   link: "https://bricebanda.com/artletter/"
+ - name: "Science"
+   link: "https://bricebanda.com/science/"
+ - name: "Extraneous"
+   link: "https://bricebanda.com/extraneous/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
-   link: "contact"
+   link: "https://bricebanda.com/contact/"
