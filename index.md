@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-Hello there. I am Brice Banda (on the right), a fourth year undergraduate studying Environmental Science and History at Columbia University in New York City. On this website I'll be experimenting and seeing what I can  express of myself.
+Hello there. I am Brice Banda (on the right), a fourth year undergraduate studying Environmental Science and History at Columbia University in New York City. On this website I'll be experimenting and seeing what I can  express of myself. It will contain both acadmeic/career oriented information and serve also to show my general person outside of that sphere. 
 
 ## Research Interest
 
