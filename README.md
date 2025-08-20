@@ -1,3 +1,8 @@
+## ReadMe
+
+This repository contains the code for my ongoing website construction, the base of which was constructed by Ankit Sultana and can be found [here](https://github.com/ankitsultana). 
+
+<!--
 # Researcher
 
 ### [Demo Website](http://ankitsultana.com/researcher)
@@ -58,3 +63,4 @@ value
 ### License
 
 [GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+-->
