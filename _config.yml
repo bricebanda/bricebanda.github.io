@@ -18,10 +18,10 @@ sass:
 nav:
  - name: "About"
    link: "/about/"
- - name: "Arts and Letters"
-   link: "https://bricebanda.com/artletter/"
- - name: "Science"
-   link: "https://bricebanda.com/science/"
+ - name: "Arts"
+   link: "https://bricebanda.com/arts/"
+ - name: "Letters"
+   link: "https://bricebanda.com/letters/
  - name: "Extraneous"
    link: "https://bricebanda.com/extraneous/"
  - name: "Resume"
