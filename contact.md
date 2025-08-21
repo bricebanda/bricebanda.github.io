@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [btb2129@columbia.edu](mailto:btb2129@columbia.edu)
 
-* Phone: [+1 512 550 0705](tel:+1-5125500705)
+<!-- * Phone: [+1 512 550 0705](tel:+1-5125500705) -->
 
 
 
