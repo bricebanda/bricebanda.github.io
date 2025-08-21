@@ -9,7 +9,7 @@ is_contact: true
 
 
 
-## Mailing Address
+## Mailing address
 
 > Brice Banda
 > 70 Morningside Dr.
@@ -18,7 +18,7 @@ is_contact: true
 
 
 
-## Other Things I Have Accounts On
+## Other things I have accounts on
 
 1. [LinkedIn](https://www.linkedin.com/in/brice-b-5882b0251/)
 2. [Insta](https://www.instagram.com/bricebanda/)
