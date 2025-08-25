@@ -4,15 +4,16 @@ layout: default
 
 ## What Im Reading Now
 
-*Anna Karenina*, Leo Tolstoy
+*Leaves of Grass*, Walt Whitman
 
 ## Most Recently Read
+
+*Anna Karenina*, Leo Tolstoy
 
 *Tropic of Cancer*, Henry Miller
 
 *A Moveable Feast*, Ernest Hemingway
 
-*Letters to a Young Poet*, Rainer Maria Rilke
 
 ## Quotes I fw (will be updated continually)
 
